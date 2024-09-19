@@ -19,10 +19,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
+- LocalStorage  
 
 ## 💻 Projeto
 
-A lista de compras é uma ferramenta prática de organização para gerenciar e acompanhar os itens necessários para suas compras. Ela ajuda a visualizar e priorizar os produtos, garantindo que nada seja esquecido e facilitando a eficiência durante as compras.
+A lista de compras é uma ferramenta prática de organização para gerenciar e acompanhar os itens necessários para suas compras. Ela ajuda a visualizar e priorizar os produtos, garantindo que nada seja esquecido e facilitando a eficiência durante as compras, isso utilizando o LocalSctorage dos navegadores.
 
 - [Acesse o projeto finalizado, online](https://kaickoliveiraoficial.github.io/shoppinglist)
 
